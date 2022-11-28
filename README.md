@@ -1,6 +1,7 @@
 # Iac_tf
 
-#Resumo do projeto
+# Resumo do projeto
+
 Primeiro projeto de Infraestrutura como código com docker, utilizando Terraform para provisionamento e AWS como provedor da infraestrutura.
 
 hammer Funcionalidades do projeto
@@ -23,7 +24,7 @@ Elastic Constainer Registry: o repositório de containers da AWS, onde vamos col
 
 Separação de ambientes: 2 ambientes separados, construídos de forma automática pelo Terraform, reutilizando código.
 
-#Abrir e rodar o projeto
+# Abrir e rodar o projeto
 O projeto foi desenvolvido no VSC (Visual Studio Code), sendo assim, instale o VSC (pode ser uma versão mais recente) e, na tela inicial, procure a opção extensões, ou aperte Ctrl+Shift+X, e busque por HashiCorp Terraform, assim teremos o suporte do intellisense, tornando o trabalho de escrever o código mais rápido.
 
 Caso baixou o zip, extraia o projeto antes de procurá-lo, pois não é possível abrir via arquivo zip
